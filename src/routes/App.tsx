@@ -32,9 +32,9 @@ export default function App() {
           >
             Upliance Recipes
           </Typography>
-          <Typography component={Link} to="/create" color="inherit">
+          {/* <Typography component={Link} to="/create" color="inherit">
             Create Recipe
-          </Typography>
+          </Typography> */}
         </Toolbar>
       </AppBar>
 
